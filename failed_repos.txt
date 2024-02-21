@@ -1,0 +1,9 @@
+questdb - skipped for second time
+trino
+infinispan
+db
+server
+Discovery
+kafka-streams-examples
+hadoop
+hibernate-validator
